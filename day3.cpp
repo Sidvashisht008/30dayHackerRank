@@ -19,7 +19,7 @@ int main()
     }
     else
     {
-        cout<<"Now Weird";
+        cout<<"Not Weird";
     }
     return 0;
 }
